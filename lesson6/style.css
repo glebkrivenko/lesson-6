@@ -407,12 +407,12 @@
 
 .effect {
   width: 100%;
-  max-width: 1400px;
   height: 598px;
   background-color: #f5f5f5;
   padding: 135px;
 }
 .soft {
+  max-width: 1400px;
   display: flex;
   justify-content: space-between;
   margin: 0px auto;
